@@ -9,3 +9,5 @@
 *.a
 /build/
 env/
+dist/
+math_craft.egg-info/
