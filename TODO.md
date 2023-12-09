@@ -1,6 +1,16 @@
-- [ x ] Implement NxN Matrix class
-- [ x ] Implement Nx1 Vector class
-- [] Implement Computational Fluid Dynamics (CFD)
-- [] Implement ODE Solvers
-- [] Implement PDE Solvers
-- [] Implement Curve Fitting Algorithms
+- [ x ] NxN Matrix class
+- [ x ] Nx1 Vector class
+- [] Computational Fluid Dynamics (CFD)
+- [] ODE Solvers
+    - [] 1st order Runge-Kutta method.
+- [] PDE Solvers
+- [] Curve Fitting Algorithms
+    - [ x ] Linear Regression
+    - [] Linear Regression with RANSAC
+    - [] Exponential Curve Fitting
+    - [] Exponential Curve Fitting with RANSAC
+    - [] Polyfitting algorithms
+- [] Optimization Algorithms
+- [] Computer Vision Algorithms
+    - [] Blob Detection
+    - [] Blob Tracking
