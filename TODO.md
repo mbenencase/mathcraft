@@ -1,0 +1,6 @@
+- [ x ] Implement NxN Matrix class
+- [ x ] Implement Nx1 Vector class
+- [] Implement Computational Fluid Dynamics (CFD)
+- [] Implement ODE Solvers
+- [] Implement PDE Solvers
+- [] Implement Curve Fitting Algorithms
